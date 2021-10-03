@@ -9,4 +9,11 @@ public class Third {
     // okay next line
 
      // some more code
+
+
+    public static void main(String[] args) {
+
+        System.out.println("5");
+
+    }
 }
